@@ -15,7 +15,7 @@ Antes de poder ejecutar el proyecto, asegúrate de tener instalado lo siguiente 
 
 ## Configuración del proyecto
 
-1. Clona este repositorio en tu máquina local utilizando el siguiente comando (Linux):
+1. Clona este repositorio en tu máquina local utilizando el siguiente comando en tu consola:
 
    ```bash
    git clone <URL_DEL_REPOSITORIO>
